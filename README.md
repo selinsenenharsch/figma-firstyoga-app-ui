@@ -8,6 +8,6 @@ A 3-page high-fidelity mobile app prototype designed in Figma for exploring adva
 - **Prototyping:** Added interactive transitions and micro-interactions for seamless user navigation.
 
 ## Screenshots
-![Home](./home.png)
+![Home](./Home.png)
 ![Class Details](./Class-Details.png)
 ![Success.png](./Success.png)
